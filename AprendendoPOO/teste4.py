@@ -14,3 +14,4 @@ print(a.valor) #Os valores só ficam salvos dentro do mesmo atributo
 # Metódo = Compartilhado por todos da mesma classe
 # Atributos = Não são compartilhado por todos da mesma classe, por isso o construror
 # Metodos tem comportamentos iguais mais diferentes estados
+# Ola mundo
