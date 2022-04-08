@@ -1,3 +1,3 @@
-# Curso De POO em Python
+# Learning Python
 
-Estou aprendendo POO no DidáticaTech.
+Here, i'm putting a little my learn with python.
